@@ -8,6 +8,7 @@ export default function AnnouncementBar() {
           <p className="text-sm font-medium tracking-wide">
             🚚 Free Shipping on orders over PKR 5,000
           </p>
+          
         </div>
       </Container>
     </div>

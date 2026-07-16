@@ -1,24 +1,26 @@
-import { ROUTES } from "./routes";
-
-export const NAVIGATION = [
+export const NAV_LINKS = [
   {
-    label: "Home",
-    href: ROUTES.HOME,
+    label: "MEN",
+    href: "/men",
   },
   {
-    label: "Shop",
-    href: ROUTES.SHOP,
+    label: "WOMEN",
+    href: "/women",
   },
   {
-    label: "Men",
-    href: ROUTES.MEN,
+    label: "KIDS",
+    href: "/kids",
   },
   {
-    label: "Women",
-    href: ROUTES.WOMEN,
+    label: "SPORTS",
+    href: "/sports",
   },
   {
-    label: "Kids",
-    href: ROUTES.KIDS,
+    label: "SALE 🔥",
+    href: "/sale",
+  },
+  {
+    label: "AI FINDER ✨",
+    href: "/ai-finder",
   },
 ];
